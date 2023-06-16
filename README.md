@@ -31,3 +31,7 @@
 [![](https://visitcount.itsvg.in/api?id=Evanoken&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💐💐💐💐💐💐🪺🪺🪺👌👌
+## My daily activity
+![DeveloperProgrammerGIF](https://github.com/Evanoken/Evanoken/assets/95754975/b0436be1-1dd8-4ab6-b495-7f4f17d44799)
+
