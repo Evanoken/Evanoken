@@ -1,6 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Android, Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning advanced Flutter, Javascript, Python and Machine Learning.
+- 🔭 I’m currently working on Cloud, Artificial Intelligence and SalesForce Eng.
+- 🌱 I’m currently learning advanced DevSecOps Cloud Computing, Javascript, Python and Machine Learning.
 - 👯 I’m looking to collaborate on Machine learning
 - 💬 Ask me about anything listed above
 - 📫 How to reach me: via email, evansngugi954@gmail.com
