@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced DevSecOps Cloud Computing, Javascript, Python and Machine Learning.
 - 👯 I’m looking to collaborate on Machine learning
 - 💬 Ask me about anything listed above
-- 📫 How to reach me: via email, evansngugi954@gmail.com
+- 📫 How to reach me: via email, ngugie649@gmail.com
 - ⚡ Fun fact: I develop and destroy.
 
 ## 🌐 Socials:
