@@ -1,10 +1,10 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Cloud, Artificial Intelligence and SalesForce Eng.
 - 🌱 I’m currently learning advanced DevSecOps Cloud Computing, Javascript, Python and Machine Learning.
-- 👯 I’m looking to collaborate on Machine learning
+- 👯 I’m looking to collaborate on Machine learning and Game development
 - 💬 Ask me about anything listed above
 - 📫 How to reach me: via email, ngugie649@gmail.com
-- ⚡ Fun fact: I develop and destroy.
+- ⚡ Fun fact: I Build and destroy.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ngugike?igshid=ZDdkNTZiNTM=) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evans-ngugi/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https/EvansNgugiK?t=cRxf98Sd4KISayOA3zxtTA&s=09) 
